@@ -44,12 +44,6 @@ The dataset used in this analysis is a CSV file named `Diwali Sales Data.csv`. I
 - The analysis provides insights into how different factors like gender, age, and occupation influence Diwali sales. These insights can be used to tailor marketing strategies and improve sales outcomes in future festive seasons.
 - Married women age group 26-35 yrs from UP, Maharastra and Karnataka working in IT, Healthcare and Aviation are more likely to buy products from Food, Clothing and Electronics category
 
-## How to Use
-
-3. Open the Jupyter notebook and run the cells to see the analysis:
-4. 
-   jupyter notebook Diwali_Sales_Analysis.ipynb
-   ```
 
 ## Dependencies
 
